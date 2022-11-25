@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+/.idea/.gitignore
+/.idea/aws-go.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
